@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+torch
+easyocr
+opencv-python
+numpy
+pandas
+scikit-learn
+tqdm
