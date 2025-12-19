@@ -1,4 +1,4 @@
-# DocLingua - Bilingual Document OCR & NER Pipeline
+# BilingualDocOCR - Bilingual Document OCR & NER Pipeline
 
 ![Project Banner](https://img.shields.io/badge/BilingualDocOCR%20Document%20AI-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
